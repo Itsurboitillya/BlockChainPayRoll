@@ -7,7 +7,7 @@ If an employee attends all 5 working days (Mon–Fri), they earn **1 ETH**. Miss
 
 ---
 
-## 🚀 Project Idea
+## Project Idea
 
 Traditional payroll systems trust humans to count attendance correctly. That usually goes fine until it doesn’t.
 
